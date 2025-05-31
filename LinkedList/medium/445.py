@@ -6,7 +6,7 @@
 class Solution(object):
     def addTwoNumbers(self, l1, l2):
         carry = 0
-        prev = None
+        prev = None 
         stack1 = []
         stack2 = []
 
